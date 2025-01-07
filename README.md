@@ -13,9 +13,11 @@ Základní demo z balíku dokumentace k desce (https://www.laskakit.cz/user/rela
 
 ## HelloWorld_gfx150
 Upravená inicializace desky, aby fungovala s „GFX library for Arduino“ 1.5.0 z library manageru.
+
 Plus demo, jak vykreslovat české texty pomocí fontů ve formátu **U8g2** - a k nim tedy musí být nainstalovaná knihovna U8g2.
 
 ## HelloWorld_gfx150_adafruit_font/
 Upravená inicializace desky, aby fungovala s „GFX library for Arduino“ 1.5.0 z library manageru.
+
 Pro vykreslení textu se používá font ve formátu **Adafruit_GFX**.
 
