@@ -20,8 +20,8 @@ Použity fonty formátu Adafruit_GFX
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "BROPKA";
-const char* password = "0603704056";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 
 #include "src/TJpg_Decoder/TJpg_Decoder.h"
